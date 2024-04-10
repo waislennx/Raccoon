@@ -1,6 +1,8 @@
 
 ## Present
 
+[![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+u1uxTJHF3l04Mjdi)
+
 ![image](https://github.com/waislennx/Raccoon/assets/166654565/b61c95cc-0484-4b4b-a875-50d221a81eaa)
 
 ![image](https://github.com/waislennx/Raccoon/assets/166654565/77b64e9a-db97-4ec4-8e0b-3f718a3c8f27)
